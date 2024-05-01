@@ -1,0 +1,5 @@
+{
+  "i18n-ally.localesPaths": ["assets/locales"],
+  "eslint.experimental.useFlatConfig": true,
+  "i18n-ally.keystyle": "nested"
+}

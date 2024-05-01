@@ -1,0 +1,8 @@
+{
+  "test": {
+    "header": "Test header",
+    "body": "Test body",
+    "footer": "Test footer",
+    "button": "Switch language"
+  }
+}
