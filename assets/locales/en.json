@@ -1,8 +1,14 @@
 {
   "test": {
     "header": "Test header",
-    "body": "Test body",
+    "input": "URL",
     "footer": "Test footer",
-    "button": "Switch language"
+    "button": "Switch language",
+    "error": "Should be url",
+    "submit": "Submit",
+    "required": "Required",
+    "link": "Get test link",
+    "copied": "Link copied to clipboard",
+    "notSupported": "Not supported"
   }
 }
